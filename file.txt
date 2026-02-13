@@ -1,4 +1,13 @@
 Hi. Hello!!!
 Namaste!
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I am Keerthana.L
 I am studying BE
+SJC Institute of Technology
+=======
+I am Keerthana.L
+>>>>>>> Stashed changes
+=======
+I am Keerthana.L
+>>>>>>> Stashed changes
